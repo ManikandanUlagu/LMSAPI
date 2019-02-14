@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoanManagement.Core.Api", "cba.LoanManagement.Core\cba.LoanManagement.Core.Api.csproj", "{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{AFBEAA1B-25B3-40DB-B91A-B60048796EBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{FC3BEEB5-E64E-4F19-9473-0B725F833667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoadManagement.BusinessLogic", "cba.LoadManagement.BusinessLogic\cba.LoadManagement.BusinessLogic.csproj", "{2A7FA573-6252-4C96-8AB5-4D05769DFF32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{0C4F56BD-2DFF-4284-A825-AF8292E1B63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoanManagement.Common", "cba.LoanManagement.Common\cba.LoanManagement.Common.csproj", "{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8E6F1E2A-2265-4DC9-805E-2062A802D824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoanManagement.Data", "cba.LoanManagement.Data\cba.LoanManagement.Data.csproj", "{B6871995-20CE-43C5-86C8-46B72C7FDBC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{9EB48DE1-8E31-4154-8C98-242361241C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoanManagement.Model", "cba.LoanManagement.Model\cba.LoanManagement.Model.csproj", "{BECE8698-68AC-4B71-97A2-EF55C231B2E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTest", "UnitTest", "{8F9ECDC7-130D-4609-BEA4-53F1E1EDAA39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cba.LoanManagement.UnitTest", "cba.LoanManagement.UnitTest\cba.LoanManagement.UnitTest.csproj", "{A26EEBD1-E67D-484F-A04D-ACB8244845CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7FA573-6252-4C96-8AB5-4D05769DFF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7FA573-6252-4C96-8AB5-4D05769DFF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7FA573-6252-4C96-8AB5-4D05769DFF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7FA573-6252-4C96-8AB5-4D05769DFF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6871995-20CE-43C5-86C8-46B72C7FDBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6871995-20CE-43C5-86C8-46B72C7FDBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6871995-20CE-43C5-86C8-46B72C7FDBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6871995-20CE-43C5-86C8-46B72C7FDBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECE8698-68AC-4B71-97A2-EF55C231B2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECE8698-68AC-4B71-97A2-EF55C231B2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECE8698-68AC-4B71-97A2-EF55C231B2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECE8698-68AC-4B71-97A2-EF55C231B2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26EEBD1-E67D-484F-A04D-ACB8244845CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26EEBD1-E67D-484F-A04D-ACB8244845CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26EEBD1-E67D-484F-A04D-ACB8244845CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26EEBD1-E67D-484F-A04D-ACB8244845CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4ECAD014-CAB9-4D83-A1DC-862DB1CD737E} = {AFBEAA1B-25B3-40DB-B91A-B60048796EBB}
+		{2A7FA573-6252-4C96-8AB5-4D05769DFF32} = {FC3BEEB5-E64E-4F19-9473-0B725F833667}
+		{3AF1CF79-8071-46E2-85E6-2E6BDCE214A2} = {0C4F56BD-2DFF-4284-A825-AF8292E1B63A}
+		{B6871995-20CE-43C5-86C8-46B72C7FDBC9} = {8E6F1E2A-2265-4DC9-805E-2062A802D824}
+		{BECE8698-68AC-4B71-97A2-EF55C231B2E1} = {9EB48DE1-8E31-4154-8C98-242361241C68}
+		{A26EEBD1-E67D-484F-A04D-ACB8244845CD} = {8F9ECDC7-130D-4609-BEA4-53F1E1EDAA39}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D86562D-F46E-4AED-845B-7C57C459CA7C}
+	EndGlobalSection
+EndGlobal

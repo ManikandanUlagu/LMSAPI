@@ -1,0 +1,16 @@
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.deps.json
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Data.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Model.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Data.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Model.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.csprojAssemblyReference.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.AssemblyInfoInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.AssemblyInfo.cs
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.csproj.CopyComplete
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoadManagement.BusinessLogic\obj\Debug\netcoreapp2.1\cba.LoadManagement.BusinessLogic.pdb

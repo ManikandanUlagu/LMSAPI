@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cba.LoanManagement.Data\cba.LoanManagement.Data.csproj" />
+    <ProjectReference Include="..\cba.LoanManagement.Model\cba.LoanManagement.Model.csproj" />
+  </ItemGroup>
+
+</Project>

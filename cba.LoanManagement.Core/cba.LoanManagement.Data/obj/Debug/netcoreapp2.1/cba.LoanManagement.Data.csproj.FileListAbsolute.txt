@@ -1,0 +1,14 @@
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Data.deps.json
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Data.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Data.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Model.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\bin\Debug\netcoreapp2.1\cba.LoanManagement.Model.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.csprojAssemblyReference.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.csproj.CoreCompileInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.AssemblyInfoInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.AssemblyInfo.cs
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.csproj.CopyComplete
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Data\obj\Debug\netcoreapp2.1\cba.LoanManagement.Data.pdb

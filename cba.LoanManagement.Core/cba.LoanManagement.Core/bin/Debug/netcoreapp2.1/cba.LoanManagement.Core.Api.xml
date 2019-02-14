@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cba.LoanManagement.Core.Api</name>
+    </assembly>
+    <members>
+        <member name="M:cba.LoanManagement.Core.Api.Controllers.LoanManagementController.Get">
+            <summary>
+            Get Date
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:cba.LoanManagement.Core.Api.Controllers.LoanManagementController.GetLoanList(System.Nullable{System.Int32})">
+            <summary>
+            
+            </summary>
+            <param name="acNumber"></param>
+            <returns></returns>
+        </member>
+        <member name="M:cba.LoanManagement.Core.Api.Controllers.LoanManagementController.Getloan">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:cba.LoanManagement.Core.Api.Filters.CustomExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)" -->
+    </members>
+</doc>

@@ -1,0 +1,9 @@
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.deps.json
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\bin\Debug\netcoreapp2.1\cba.LoanManagement.Common.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.csproj.CoreCompileInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.AssemblyInfoInputs.cache
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.AssemblyInfo.cs
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.dll
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.pdb
+C:\LoanManagement\cba.LoanManagement.Core\cba.LoanManagement.Common\obj\Debug\netcoreapp2.1\cba.LoanManagement.Common.csprojAssemblyReference.cache
